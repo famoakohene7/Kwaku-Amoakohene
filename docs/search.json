@@ -4,7 +4,21 @@
     "href": "index.html",
     "title": "Frederick Kwaku Amoakohene",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Graduate Research and Teaching Assistant\nDepartment of Economics\nMemorial University of Newfoundland\nFounder and President\nNon-Governmental Organization\nCare for Humanity Initiative Foundation Ghana"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Frederick Kwaku Amoakohene",
+    "section": "About",
+    "text": "About\nI am Abraham Ayiah Yankson, a master of arts in economics student at the Memorial University of Newfoundland, Department of Economics. I also hold bachelor of arts degree in economics from the University of Ghana, Legon. I believe the intensity of poverty in many regions, such as Sub-Saharan Africa, including Ghana, requires economic modelling and research to inform policy-making in these regions. As Data analytics enthusiast and a budding applied-microeconomist, i have strong interest in modelling labour market dynamics, Poverty and inequality."
+  },
+  {
+    "objectID": "Contact.html",
+    "href": "Contact.html",
+    "title": "Contact Information",
+    "section": "",
+    "text": "aayankson@mun.ca\n (709) 853-7137\n Department of Economics\n     Memorial University of Newfoundland\n     215A Empire Avenue\n     St. John’s, NL, Canada\n     A1C 3H3"
   },
   {
     "objectID": "about.html",
@@ -12,5 +26,61 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "aayankson@mun.ca\n (709) 853-7137\n Department of Economics\n     Memorial University of Newfoundland\n     215A Empire Avenue\n     St. John’s, NL, Canada\n     A1C 3H3"
+  },
+  {
+    "objectID": "CV.html#contact-information",
+    "href": "CV.html#contact-information",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "aayankson@mun.ca\n (709) 853-7137\n Department of Economics\n     Memorial University of Newfoundland\n     215A Empire Avenue\n     St. John’s, NL, Canada\n     A1C 3H3"
+  },
+  {
+    "objectID": "CV.html#academic-profiles-and-website",
+    "href": "CV.html#academic-profiles-and-website",
+    "title": "Curriculum Vitae",
+    "section": "Academic Profiles and Website",
+    "text": "Academic Profiles and Website\n\n Personal Website: https://abrahamayiahyankson.github.io/My-Personal-Website/."
+  },
+  {
+    "objectID": "CV.html#education",
+    "href": "CV.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\nMA Economics (2023), Memorial University of Newfoundland;\nBA Economics (2020), University of Ghana, Legon.\nGeneral Arts (2016), Ghana Senior High Technical School, Takoradi"
+  },
+  {
+    "objectID": "CV.html#current-positions",
+    "href": "CV.html#current-positions",
+    "title": "Curriculum Vitae",
+    "section": "Current Positions",
+    "text": "Current Positions\n\nGraduate Teaching and Research Assistant (2024), Department of Economics, Memorial University of Newfoundland.\nFounder and President (2019-), Care for Humanity Initiative Foundation Ghana (CHIF-GHANA)."
+  },
+  {
+    "objectID": "CV.html#previous-positions",
+    "href": "CV.html#previous-positions",
+    "title": "Curriculum Vitae",
+    "section": "Previous Positions",
+    "text": "Previous Positions\n\nTeaching Assistant (2022), Department of Economics, University of Ghana, Legon.\nResearch Assistant (2021), Ghana Statistical Service, Accra.\nField Supervisor and Monitor (2021), 2021 Population and Housing Census, Ghana Statistical Service."
+  },
+  {
+    "objectID": "CV.html#research-interest-and-specialization",
+    "href": "CV.html#research-interest-and-specialization",
+    "title": "Curriculum Vitae",
+    "section": "Research Interest and Specialization",
+    "text": "Research Interest and Specialization\n\nApplied Micro-econometrics\nLabour Economics\nMonetary Economics"
+  },
+  {
+    "objectID": "CV.html#skills",
+    "href": "CV.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\n\nStata\nLatex and Beamer.\nR and Quarto\nData Analytics and Economic Modelling."
   }
 ]

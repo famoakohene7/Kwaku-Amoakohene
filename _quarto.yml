@@ -3,18 +3,36 @@ project:
   output-dir: docs
 
 website:
-  title: "Kwaku Amoakohene"
+  title: "Frederick Kwaku Amoakohene"
   navbar:
+    background: success
+    search: true
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: "{{< fa house >}} Home"
+      - href: CV.qmd
+        text: "{{< fa user-tie >}} CV"
+      
+    right: 
+      - href: Contact.qmd
+        text: "{{< fa envelope >}} Contact"
+        
+      - href: https://twitter.com/AbrahamAyiah
+        icon: twitter
+      
+      - href: https://famoakohene7.github.io/Kwaku-Amoakohene/
+        icon: github
+
+
+        
+        
+    
 
 format:
   html:
-    theme: cosmo
+    theme: simplex
+    mainfont: arial
     css: styles.css
     toc: true
 
 editor: visual
-
