@@ -16,12 +16,12 @@ website:
     right: 
       - href: Contact.qmd
         text: "{{< fa envelope >}} Contact"
-        
-      - href: https://twitter.com/AbrahamAyiah
-        icon: twitter
       
-      - href: https://famoakohene7.github.io/Kwaku-Amoakohene/
+      - href: https://github.com/famoakohene7
         icon: github
+        
+      - href: https://www.linkedin.com/in/frederick-amoakohene/
+        icon: linkedin
 
 
         

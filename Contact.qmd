@@ -2,9 +2,9 @@
 title: "Contact Information"
 ---
 
-{{< fa envelope >}} [aayankson@mun.ca](mailto:aayankson@mun.ca)
+{{< fa envelope >}} [fkamoakohene@mun.ca](mailto:fkamoakohene@mun.ca)
 
-{{< fa phone >}} (709) 853-7137
+{{< fa phone >}} (709) 853-5676
 
 {{< fa paper-plane >}} Department of Economics   
 &nbsp;&nbsp;&nbsp;&nbsp; Memorial University of Newfoundland   

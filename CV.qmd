@@ -4,9 +4,9 @@ title: "Curriculum Vitae"
 
 ## Contact Information
 
-{{< fa envelope >}} [aayankson@mun.ca](mailto:aayankson@mun.ca)
+{{< fa envelope >}} [fkamoakohene@mun.ca](mailto:fkamoakohene@mun.ca)
 
-{{< fa phone >}} (709) 853-7137
+{{< fa phone >}} (709) 853-5676
 
 {{< fa paper-plane >}} Department of Economics   
 &nbsp;&nbsp;&nbsp;&nbsp; Memorial University of Newfoundland   
@@ -19,7 +19,8 @@ title: "Curriculum Vitae"
 
 ## Academic Profiles and Website
 
-- {{< fa user >}} Personal Website: [https://abrahamayiahyankson.github.io/My-Personal-Website/](https://abrahamayiahyankson.github.io/My-Personal-Website/).
+- {{< fa user >}} Personal Website: [Amoakohene's Personal Website](https://abrahamayiahyankson.github.io/My-Personal-Website/).
+
 
 ## Education
 
@@ -27,35 +28,34 @@ title: "Curriculum Vitae"
 
 - BA Economics (2020), University of Ghana, Legon.
 
-- General Arts (2016), Ghana Senior High Technical School, Takoradi
-
 ## Current Positions
 
-- Graduate Teaching and Research Assistant (2024), Department of Economics, Memorial University of Newfoundland.
+- Research Assistant (2024), Department of Economics, Memorial University of Newfoundland.
 
-- Founder and President (2019-), Care for Humanity Initiative Foundation Ghana (CHIF-GHANA).
+- Data Analyst (2023-Date), Graduate Aplications International Network (GAIN).
 
 ## Previous Positions
 
-- Teaching Assistant (2022), Department of Economics, University of Ghana, Legon.
+- Research Assistant (2020), ProGyire Limited, Consulting Firm, Spintex Ghana.
 
-- Research Assistant (2021), Ghana Statistical Service, Accra.
-
-- Field Supervisor and Monitor (2021), 2021 Population and Housing Census, Ghana Statistical Service.
+- Research Assistant (2020-2021), Economics Department,University of Ghana, Legon.
 
 ## Research Interest and Specialization
 
-- Applied Micro-econometrics
+- Microeconomics
 
-- Labour Economics
+- Environmental and Natural Resource Economics
 
-- Monetary Economics
+- Data Analysis
+
+- Cost and Benefit Analysis
 
 ## Skills
+
 - Stata 
 
-- Latex and Beamer.
+- Latex .
 
 - R and Quarto
 
-- Data Analytics and Economic Modelling.
+- Microsoft Office Suit
