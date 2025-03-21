@@ -2,12 +2,12 @@
 title: "Contact Information"
 ---
 
-{{< fa envelope >}} [fkamoakohene@mun.ca](mailto:fkamoakohene@mun.ca)
+{{< fa envelope >}} [fkamoakohene\@mun.ca](mailto:fkamoakohene@mun.ca)
 
 {{< fa phone >}} (709) 853-5676
 
-{{< fa paper-plane >}} Department of Economics   
-&nbsp;&nbsp;&nbsp;&nbsp; Memorial University of Newfoundland   
-&nbsp;&nbsp;&nbsp;&nbsp; 215A Empire Avenue   
-&nbsp;&nbsp;&nbsp;&nbsp; St. John's, NL, Canada   
-&nbsp;&nbsp;&nbsp;&nbsp; A1C 3H3
+{{< fa paper-plane >}} Department of Economics\
+     Memorial University of Newfoundland\
+     35 Gambier Street\
+     St. John's, NL, Canada\
+     A1B 3G2
