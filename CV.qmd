@@ -4,58 +4,54 @@ title: "Curriculum Vitae"
 
 ## Contact Information
 
-{{< fa envelope >}} [fkamoakohene@mun.ca](mailto:fkamoakohene@mun.ca)
+{{< fa envelope >}} [fkamoakohene\@mun.ca](mailto:fkamoakohene@mun.ca)
 
 {{< fa phone >}} (709) 853-5676
 
-{{< fa paper-plane >}} Department of Economics   
-&nbsp;&nbsp;&nbsp;&nbsp; Memorial University of Newfoundland   
-&nbsp;&nbsp;&nbsp;&nbsp; 215A Empire Avenue   
-&nbsp;&nbsp;&nbsp;&nbsp; St. John's, NL, Canada   
-&nbsp;&nbsp;&nbsp;&nbsp; A1C 3H3
-
-                                      
-
+{{< fa paper-plane >}} Department of Economics\
+     Memorial University of Newfoundland\
+     215A Empire Avenue\
+     St. John's, NL, Canada\
+     A1C 3H3
 
 ## Academic Profiles and Website
 
-- {{< fa user >}} Personal Website: [Amoakohene's Personal Website](https://abrahamayiahyankson.github.io/My-Personal-Website/).
-
+-   {{< fa user >}} Personal Website: [Amoakohene's Personal Website](https://abrahamayiahyankson.github.io/My-Personal-Website/).
 
 ## Education
 
-- MA Economics (2023), Memorial University of Newfoundland;
+-   MA Economics (2023), Memorial University of Newfoundland;
 
-- BA Economics (2020), University of Ghana, Legon.
+-   BA Economics (2020), University of Ghana, Legon.
 
 ## Current Positions
 
-- Research Assistant (2024), Department of Economics, Memorial University of Newfoundland.
+-   Research Assistant (2024), Department of Economics, Memorial University of Newfoundland.
 
-- Data Analyst (2023-Date), Graduate Aplications International Network (GAIN).
+-   Data Analyst (2023-Date), Graduate Aplications International Network (GAIN).
 
 ## Previous Positions
 
-- Research Assistant (2020), ProGyire Limited, Consulting Firm, Spintex Ghana.
+-   Research Assistant (2020), ProGyire Limited, Consulting Firm, Spintex Ghana.
 
-- Research Assistant (2020-2021), Economics Department,University of Ghana, Legon.
+-   Research Assistant (2020-2021), Economics Department,University of Ghana, Legon.
 
 ## Research Interest and Specialization
 
-- Microeconomics
+-   Microeconomics
 
-- Environmental and Natural Resource Economics
+-   Environmental and Natural Resource Economics
 
-- Data Analysis
+-   Data Analysis
 
-- Cost and Benefit Analysis
+-   Cost and Benefit Analysis
 
 ## Skills
 
-- Stata 
+-   Stata
 
-- Latex .
+-   Latex .
 
-- R and Quarto
+-   R and Quart
 
-- Microsoft Office Suit
+-   Microsoft Office Suit
