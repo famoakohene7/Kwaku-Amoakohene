@@ -6,7 +6,7 @@ title: "Contact Information"
 
 {{< fa phone >}} (709) 853-5676
 
-{{< fa paper-plane >}} Department of Economics\
+{{< fa paper-plane >}} Frederick Kwaku Amoakohene\
      Memorial University of Newfoundland\
      35 Gambier Street\
      St. John's, NL, Canada\

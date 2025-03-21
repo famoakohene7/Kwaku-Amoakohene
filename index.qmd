@@ -5,12 +5,12 @@ format:
     include-in-header: fka Script.Rhtml
 ---
 
-::: columns
-::: {.column width="40%"}
+:::::: columns
+:::: {.column width="40%"}
 ::: round-image
 ![](photo.jpg)
 :::
-:::
+::::
 
 ::: {.column width="60%"}
 ### Frederick Kwaku Amoakohene, MA Economics Student
@@ -19,7 +19,7 @@ format:
 Department of Economics\
 Memorial University of Newfoundland
 :::
-:::
+::::::
 
 ## About
 
