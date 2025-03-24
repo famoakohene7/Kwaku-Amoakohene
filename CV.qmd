@@ -52,6 +52,6 @@ title: "Curriculum Vitae"
 
 -   Latex .
 
--   R and Quarto
+-   R and Quart
 
 -   Microsoft Office Suit

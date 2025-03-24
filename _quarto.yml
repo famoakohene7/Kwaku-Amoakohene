@@ -5,34 +5,30 @@ project:
 website:
   title: "Frederick Kwaku Amoakohene"
   navbar:
-    background: success
+    background: primary
     search: true
     left:
       - href: index.qmd
         text: "{{< fa house >}} Home"
       - href: CV.qmd
         text: "{{< fa user-tie >}} CV"
-      
+    
     right: 
       - href: Contact.qmd
         text: "{{< fa envelope >}} Contact"
-      
       - href: https://github.com/famoakohene7
         icon: github
-        
       - href: https://www.linkedin.com/in/frederick-amoakohene/
         icon: linkedin
 
-
-        
-        
-    
-
 format:
   html:
-    theme: simplex
-    mainfont: arial
+    theme: flatly
+    mainfont: 'Georgia, serif'
     css: styles.css
     toc: true
+    toc-depth: 3
+    toc-title: "On this page"
+    smooth-scroll: true
 
 editor: visual
