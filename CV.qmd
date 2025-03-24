@@ -24,12 +24,6 @@ A1C 3H3
 
 ---
 
-## **Academic Profiles and Website**
-
-- {{< fa user >}} **Personal Website:** [Amoakohene's Personal Website](https://abrahamayiahyankson.github.io/My-Personal-Website/)
-
----
-
 ## **Highlight of Qualifications**
 
 - Proven expertise in data analysis, financial modeling, and economic forecasting using R Studio, Stata, Power BI, and Microsoft Excel.  
