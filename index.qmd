@@ -1,26 +1,42 @@
 ---
-title: ""
+title: "Welcome to My Professional Portfolio"
 format:
   html: 
     include-in-header: fka Script.Rhtml
 ---
 
 :::::: columns
-:::: {.column width="40%"}
+:::: {.column width="40%" style="text-align: center; padding: 20px;"}
 ::: round-image
-![](photo.jpg)
+![](photo.jpg){style="border-radius: 50%; width: 80%; border: 5px solid #2a6496; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);"}
 :::
 ::::
 
-::: {.column width="60%"}
-### Frederick Kwaku Amoakohene, MA Economics Student
+::: {.column width="60%" style="padding-left: 20px;"}
+### **Frederick Kwaku Amoakohene**
+#### Master of Arts in Economics | Memorial University of Newfoundland
 
-**Graduate Research and Teaching Assistant**\
-Department of Economics\
-Memorial University of Newfoundland
+**Graduate Research and Teaching Assistant**  
+Department of Economics  
+Memorial University of Newfoundland  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/frederick-amoakohene/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/famoakohene7)
 :::
 ::::::
 
-## About
+## About Me
 
-I want to be remarkable. Even if I live just a decade more, I want to know on my dying bed that I explored the ideas that made my heart bubble; that I did all I could to initiate the process of a lifetime that truly honored my potentials in my eyes and of those around me.
+I strive to be remarkable. Even if I live just a decade more, I want to know on my dying bed that I explored the ideas that made my heart bubble — that I did all I could to initiate a lifetime journey that truly honored my potential in my own eyes and those around me.
+
+## Skills & Expertise
+- Data Analysis: R Studio, Stata, Power BI, Microsoft Excel
+- Research & Policy Analysis
+- Project Management & Proposal Development
+- Public Speaking & Presentation Skills
+
+## Contact
+If you'd like to connect, feel free to reach out via [Email](mailto:famoakohene7@gmail.com) or visit my [LinkedIn](https://www.linkedin.com/in/frederick-amoakohene/) profile.
+
+---
+**"Ambition is the first step to success. Action is the second."**
