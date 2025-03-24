@@ -1,59 +1,17 @@
 [
   {
-    "objectID": "Contact.html",
-    "href": "Contact.html",
-    "title": "Contact Information",
-    "section": "",
-    "text": "fkamoakohene@mun.ca\n (709) 853-5676\n Frederick Kwaku Amoakohene\n     Memorial University of Newfoundland\n     35 Gambier Street\n     St. John’s, NL, Canada\n     A1B 3G2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to My Professional Portfolio",
-    "section": "",
-    "text": "Graduate Research and Teaching Assistant\nDepartment of Economics\nMemorial University of Newfoundland"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Welcome to My Professional Portfolio",
-    "section": "About Me",
-    "text": "About Me\nI strive to be remarkable. Even if I live just a decade more, I want to know on my dying bed that I explored the ideas that made my heart bubble — that I did all I could to initiate a lifetime journey that truly honored my potential in my own eyes and those around me."
-  },
-  {
-    "objectID": "index.html#skills-expertise",
-    "href": "index.html#skills-expertise",
-    "title": "Welcome to My Professional Portfolio",
-    "section": "Skills & Expertise",
-    "text": "Skills & Expertise\n\nData Analysis: R Studio, Stata, Power BI, Microsoft Excel\nResearch & Policy Analysis\nProject Management & Proposal Development\nPublic Speaking & Presentation Skills"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Welcome to My Professional Portfolio",
-    "section": "Contact",
-    "text": "Contact\nIf you’d like to connect, feel free to reach out via Email or visit my LinkedIn profile.\n\n“Ambition is the first step to success. Action is the second.”"
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Frederick Kwaku Amoakohene",
-    "section": "About",
-    "text": "About\nI want to be remarkable. Even if I live just a decade more, I want to know on my dying bed that I explored the ideas that made my heart bubble; that I did all I could to initiate the process of a lifetime that truly honored my potentials in my eyes and of those around me."
-  },
-  {
     "objectID": "CV.html",
     "href": "CV.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "fkamoakohene@mun.ca\n (709) 853-5676\n Department of Economics\n     Memorial University of Newfoundland\n     215A Empire Avenue\n     St. John’s, NL, Canada\n     A1C 3H3"
+    "text": "fkamoakohene@mun.ca\n (709) 853-5676\n Department of Economics\n     Memorial University of Newfoundland\n     35 Gambier\n     St. John’s, NL, Canada\n     A1B 3G2"
   },
   {
     "objectID": "CV.html#contact-information",
     "href": "CV.html#contact-information",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "fkamoakohene@mun.ca\n (709) 853-5676\n Department of Economics\n     Memorial University of Newfoundland\n     215A Empire Avenue\n     St. John’s, NL, Canada\n     A1C 3H3"
+    "text": "fkamoakohene@mun.ca\n (709) 853-5676\n Department of Economics\n     Memorial University of Newfoundland\n     35 Gambier\n     St. John’s, NL, Canada\n     A1B 3G2"
   },
   {
     "objectID": "CV.html#academic-profiles-and-website",
@@ -63,53 +21,18 @@
     "text": "Academic Profiles and Website\n\n Personal Website: Amoakohene’s Personal Website."
   },
   {
-    "objectID": "CV.html#education",
-    "href": "CV.html#education",
-    "title": "Curriculum Vitae",
-    "section": "Education",
-    "text": "Education\n\nMA Economics (2023), Memorial University of Newfoundland;\nBA Economics (2020), University of Ghana, Legon."
-  },
-  {
-    "objectID": "CV.html#current-positions",
-    "href": "CV.html#current-positions",
-    "title": "Curriculum Vitae",
-    "section": "Current Positions",
-    "text": "Current Positions\n\nResearch Assistant (2024), Department of Economics, Memorial University of Newfoundland.\nData Analyst (2023-Date), Graduate Aplications International Network (GAIN)."
-  },
-  {
-    "objectID": "CV.html#previous-positions",
-    "href": "CV.html#previous-positions",
-    "title": "Curriculum Vitae",
-    "section": "Previous Positions",
-    "text": "Previous Positions\n\nResearch Assistant (2020), ProGyire Limited, Consulting Firm, Spintex Ghana.\nResearch Assistant (2020-2021), Economics Department,University of Ghana, Legon."
-  },
-  {
-    "objectID": "CV.html#research-interest-and-specialization",
-    "href": "CV.html#research-interest-and-specialization",
-    "title": "Curriculum Vitae",
-    "section": "Research Interest and Specialization",
-    "text": "Research Interest and Specialization\n\nMicroeconomics\nEnvironmental and Natural Resource Economics\nData Analysis\nCost and Benefit Analysis"
-  },
-  {
-    "objectID": "CV.html#skills",
-    "href": "CV.html#skills",
-    "title": "Curriculum Vitae",
-    "section": "Skills",
-    "text": "Skills\n\nStata\nLatex .\nR and Quart\nMicrosoft Office Suit"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "CV.html#highlight-of-qualifications",
     "href": "CV.html#highlight-of-qualifications",
     "title": "Curriculum Vitae",
     "section": "Highlight of Qualifications",
     "text": "Highlight of Qualifications\n\nProven expertise in data analysis, financial modeling, and economic forecasting using R Studio, Stata, Power BI, and Microsoft Excel.\n\nStrong experience in project management, including developing proposals, coordinating teams, and delivering impactful results.\n\nDemonstrated ability to translate complex data into actionable insights for strategic decision-making.\n\nEffective communication skills with experience presenting findings to diverse stakeholders.\n\nSkilled in developing and implementing frameworks for data collection, analysis, and reporting.\n\nProficient in using digital collaboration tools for remote teamwork and project delivery."
+  },
+  {
+    "objectID": "CV.html#education",
+    "href": "CV.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\nMA Economics (2023), Memorial University of Newfoundland;\nBA Economics (2020), University of Ghana, Legon."
   },
   {
     "objectID": "CV.html#work-experience",
@@ -145,5 +68,68 @@
     "title": "Curriculum Vitae",
     "section": "Research Papers",
     "text": "Research Papers\n\nHouseholds’ Willingness to Pay for Solar Energy in Ghana: The Influence of Risk and Time Preferences — Memorial University of Newfoundland (2024)\n\nPollution Haven Hypothesis Among Developing Countries: An Empirical Examination — Memorial University of Newfoundland (2023)\n\nRetention and Integration of International Students in Atlantic Canada — Memorial University of Newfoundland (2024)"
+  },
+  {
+    "objectID": "CV.html#current-positions",
+    "href": "CV.html#current-positions",
+    "title": "Curriculum Vitae",
+    "section": "Current Positions",
+    "text": "Current Positions\n\nResearch Assistant (2024), Department of Economics, Memorial University of Newfoundland.\nData Analyst (2023-Date), Graduate Aplications International Network (GAIN)."
+  },
+  {
+    "objectID": "CV.html#previous-positions",
+    "href": "CV.html#previous-positions",
+    "title": "Curriculum Vitae",
+    "section": "Previous Positions",
+    "text": "Previous Positions\n\nResearch Assistant (2020), ProGyire Limited, Consulting Firm, Spintex Ghana.\nResearch Assistant (2020-2021), Economics Department,University of Ghana, Legon."
+  },
+  {
+    "objectID": "CV.html#research-interest-and-specialization",
+    "href": "CV.html#research-interest-and-specialization",
+    "title": "Curriculum Vitae",
+    "section": "Research Interest and Specialization",
+    "text": "Research Interest and Specialization\n\nMicroeconomics\nEnvironmental and Natural Resource Economics\nData Analysis\nCost and Benefit Analysis"
+  },
+  {
+    "objectID": "CV.html#skills",
+    "href": "CV.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\n\nStata\nLatex .\nR and Quart\nMicrosoft Office Suit"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Frederick Kwaku Amoakohene",
+    "section": "",
+    "text": ":::: {.column width=“40%”}— title: “Welcome to My Professional Portfolio” format: html: include-in-header: fka Script.Rhtml\n\n\n\n\n\n\n\n\n\nGraduate Research and Teaching Assistant\nDepartment of Economics\nMemorial University of Newfoundland\n\n\n\n\n\n\n\nI strive to be remarkable. Even if I live just a decade more, I want to know on my dying bed that I explored the ideas that made my heart bubble — that I did all I could to initiate a lifetime journey that truly honored my potential in my own eyes and those around me.\n\n\n\nData Analysis: R Studio, Stata, Power BI, Microsoft Excel\nResearch & Policy Analysis\nProject Management & Proposal Development\nPublic Speaking & Presentation Skills\n\n\n\nIf you’d like to connect, feel free to reach out via Email or visit my LinkedIn profile.\n\n“Ambition is the first step to success. Action is the second.”\n::::::"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Frederick Kwaku Amoakohene",
+    "section": "",
+    "text": "I strive to be remarkable. Even if I live just a decade more, I want to know on my dying bed that I explored the ideas that made my heart bubble — that I did all I could to initiate a lifetime journey that truly honored my potential in my own eyes and those around me."
+  },
+  {
+    "objectID": "index.html#skills-expertise",
+    "href": "index.html#skills-expertise",
+    "title": "Frederick Kwaku Amoakohene",
+    "section": "",
+    "text": "Data Analysis: R Studio, Stata, Power BI, Microsoft Excel\nResearch & Policy Analysis\nProject Management & Proposal Development\nPublic Speaking & Presentation Skills"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Frederick Kwaku Amoakohene",
+    "section": "",
+    "text": "If you’d like to connect, feel free to reach out via Email or visit my LinkedIn profile.\n\n“Ambition is the first step to success. Action is the second.”"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Frederick Kwaku Amoakohene",
+    "section": "About",
+    "text": "About\nI want to be remarkable. Even if I live just a decade more, I want to know on my dying bed that I explored the ideas that made my heart bubble; that I did all I could to initiate the process of a lifetime that truly honored my potentials in my eyes and of those around me."
   }
 ]

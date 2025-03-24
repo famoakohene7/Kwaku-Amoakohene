@@ -1,111 +1,57 @@
 ---
 title: "Curriculum Vitae"
-format:
-  html:
-    theme: flatly
-    mainfont: 'Georgia, serif'
-    css: styles.css
-    toc: true
-    toc-title: "On this page"
 ---
 
-## **Contact Information**
+## Contact Information
 
-<div style="display: flex; align-items: center; gap: 15px;">
-{{< fa envelope >}} [famoakohene7@gmail.com](mailto:famoakohene7@gmail.com)
+{{< fa envelope >}} [fkamoakohene\@mun.ca](mailto:fkamoakohene@mun.ca)
+
 {{< fa phone >}} (709) 853-5676
-</div>
 
-{{< fa paper-plane >}} **Department of Economics**\
-Memorial University of Newfoundland\
-35 Gambier\
-St. John's, NL, Canada\
-A1B 3G2
+{{< fa paper-plane >}} Department of Economics\
+     Memorial University of Newfoundland\
+     35 Gambier\
+     St. John's, NL, Canada\
+     A1B 3G2
 
----
+## Academic Profiles and Website
 
-## **Academic Profiles and Website**
+-   {{< fa user >}} Personal Website: [Amoakohene's Personal Website](https://famoakohene7.github.io/Kwaku-Amoakohene/).
 
-- {{< fa user >}} **Personal Website:** [Amoakohene's Personal Website](https://https://famoakohene7.github.io/Kwaku-Amoakohene/)
+## Education
 
----
+-   MA Economics (2023), Memorial University of Newfoundland;
 
-## **Highlight of Qualifications**
+-   BA Economics (2020), University of Ghana, Legon.
 
-- Proven expertise in data analysis, financial modeling, and economic forecasting using R Studio, Stata, Power BI, and Microsoft Excel.  
-- Strong experience in project management, including developing proposals, coordinating teams, and delivering impactful results.  
-- Demonstrated ability to translate complex data into actionable insights for strategic decision-making.  
-- Effective communication skills with experience presenting findings to diverse stakeholders.  
-- Skilled in developing and implementing frameworks for data collection, analysis, and reporting.  
-- Proficient in using digital collaboration tools for remote teamwork and project delivery.  
+## Current Positions
 
----
+-   Research Assistant (2024), Department of Economics, Memorial University of Newfoundland.
 
-## **Education**
+-   Data Analyst (2023-Date), Graduate Aplications International Network (GAIN).
 
-- **MA Economics** (2023) — Memorial University of Newfoundland  
-- **BA Economics** (2020) — University of Ghana, Legon
+## Previous Positions
 
----
+-   Research Assistant (2020), ProGyire Limited, Consulting Firm, Spintex Ghana.
 
-## **Work Experience**
+-   Research Assistant (2020-2021), Economics Department,University of Ghana, Legon.
 
-- **Independent Social Impact Analyst** (2024 - Present) — SmartICE Monitoring & Information Inc., St John’s, NL  
-    - Utilize data analysis, research, and reporting skills to measure and communicate the impact of SmartICE projects on 36 indigenous communities in Canada.  
-    - Develop and implement data collection strategies, including surveys and interviews, to gather relevant impact data.  
-    - Support and develop measurement, learning, and evaluation frameworks for SmartICE’s programs and services.  
-    - Distribute weekly ice monitoring information to community operational leads to aid local ice users.  
+## Research Interest and Specialization
 
-- **Graduate Teaching and Research Assistant** (2023 - Present) — Memorial University, St John's, NL  
-    - Conduct research on labor market dynamics and workforce retention strategies.  
-    - Collaborate on Equity, Diversity, and Inclusion (EDI) initiatives for the Newfoundland labor market.  
-    - Assist with data collection, statistical analysis, and policy recommendations.  
+-   Microeconomics
 
-- **Project Analyst** (2020 - 2023) — ProGyire Limited, Accra, Ghana  
-    - Led a team to conduct an employee satisfaction survey for Bulk Oil Storage and Transportation Limited (BOST) Ghana in 2020, providing comprehensive recommendations that contributed to BOST making a profit of GH¢881 million within three years — the first recorded profit in 11 years.  
-    - Conducted a Speed to Proficiency program for employees of the Electricity Company of Ghana under a government contract, improving employee efficiency by 20% and contributing to power stability during COVID 19.  
-    - Developed project proposals for energy sector projects, securing contracts valued at over \$200,000.  
-    - Evaluated training impact and provided data-driven recommendations.  
+-   Environmental and Natural Resource Economics
 
----
+-   Data Analysis
 
-## **Volunteer Experience**
+-   Cost and Benefit Analysis
 
-- **Data Analysis and Program Support** (2020 - Present) — Graduate Applications International Network (GAIN), Remote  
-    - Support African graduate students in preparing competitive graduate school applications.  
-    - Facilitate peer-to-peer support networks and mentorship programs.  
+## Skills
 
-- **Volunteer Tax Support** (2024) — Canada Revenue Agency, Remote  
-    - Assisted individuals in completing their tax returns through the Community Volunteer Income Tax Program (CVITP).  
-    - Helped international students individuals meet their tax obligations and receive benefits and credit payments.  
+-   Stata
 
----
+-   Latex .
 
-## **Skills and Accomplishments**
+-   R and Quart
 
-- **Data Analysis:** R Studio, Stata, Microsoft Excel, Power BI  
-- **Writing:** LaTeX, Quarto, Microsoft Word  
-- **Technologies:** Windows, GitHub  
-- **Driving:** Class 5 Drivers License  
-- **First Aid:** Emergency First Aid & CPR/AED level A (BL) CSA Std. Z1210-17 – Basic  
-
----
-
-## **Certifications**
-
-- **Financial Modeling and Valuation Analyst** — Corporate Finance Institute (2022)  
-- **Financial Markets Course** — Yale University (Online) (2021)  
-- **Excel Skills for Business: Essentials** — Macquarie University (Online) (2021)  
-- **Development Economics Course** — Universidad Autonoma de Madrid (2021)  
-- **AMENET International Conference** — University of Ghana (2021)  
-- **IAST-AGI Internship Programme** — Association of Ghana Industries (2018)  
-
----
-
-## **Research Papers**
-
-- **Households’ Willingness to Pay for Solar Energy in Ghana: The Influence of Risk and Time Preferences** — Memorial University of Newfoundland (2024)  
-- **Pollution Haven Hypothesis Among Developing Countries: An Empirical Examination** — Memorial University of Newfoundland (2023)  
-- **Retention and Integration of International Students in Atlantic Canada** — Memorial University of Newfoundland (2024)  
-
----
+-   Microsoft Office Suit
